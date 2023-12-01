@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8yxfG2qlJa5ewkxyznlZbA9HvEpFy3OyZWobDKJ629dLLfkxhPvwS/Aep9kBEyTYgk7FsXDj7FZE/rHR+KMLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xiaomi\\source\\repos\\testic\\testic\\testic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xiaomi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

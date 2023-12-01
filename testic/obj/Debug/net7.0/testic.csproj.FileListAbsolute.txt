@@ -1,0 +1,17 @@
+C:\Users\xiaomi\source\repos\testic\testic\bin\Debug\net7.0\testic.exe
+C:\Users\xiaomi\source\repos\testic\testic\bin\Debug\net7.0\testic.deps.json
+C:\Users\xiaomi\source\repos\testic\testic\bin\Debug\net7.0\testic.runtimeconfig.json
+C:\Users\xiaomi\source\repos\testic\testic\bin\Debug\net7.0\testic.dll
+C:\Users\xiaomi\source\repos\testic\testic\bin\Debug\net7.0\testic.pdb
+C:\Users\xiaomi\source\repos\testic\testic\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.csproj.AssemblyReference.cache
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.AssemblyInfoInputs.cache
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.AssemblyInfo.cs
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.csproj.CopyComplete
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.dll
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\refint\testic.dll
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.pdb
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\testic.genruntimeconfig.cache
+C:\Users\xiaomi\source\repos\testic\testic\obj\Debug\net7.0\ref\testic.dll
